@@ -1,2 +1,2 @@
 # React-Tic-tac-Toe
-Basic Tic Tac Toe using React
+Create a React app then copy and paste code into corresponding files
